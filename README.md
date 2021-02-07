@@ -1,10 +1,14 @@
-# Book Template
+# Sinners in the Hands of an Angry God
+
+## By Jonathan Edwards
+
+## 1741
 
 ## Warhorn Classics
 
-## 2020
 
-This book is a template for starting new Warhorn Classics book projects. It also contains some brief instructions for how to get started.
+
+This is probably the most famous sermon in the English language.
 
 Available for your reading pleasure here:
-https://warhornmedia.github.io/warhorn-classics-book-template
+https://warhornmedia.github.io/edwards-sinners-angry-god
